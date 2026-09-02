@@ -1,7 +1,7 @@
 <H3>NAME : Easwari M</H3>
 <H3>REGISTER NO : 212223240033</H3>
 <H3>EX. NO.9</H3>
-<H3>DATE:</H3>
+<H3>DATE: 02.09.2026</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
